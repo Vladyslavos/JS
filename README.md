@@ -1,4 +1,4 @@
-<h1 align="center">JS</h1>
+<h1 align="center">JavaScript</h1>
 <p align="center">
   <img src="JS_skills/js_skill.png" width=80>
 </p>
