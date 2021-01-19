@@ -1,6 +1,6 @@
 <h1 align="center">JavaScript</h1>
 <p align="center">
-  <img src="JS_skills/js_skill.png" width=80>
+  <img src="JS_skills/js_skill.png" width=60>
 </p>
  
 <h3>  
