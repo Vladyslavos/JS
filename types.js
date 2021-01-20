@@ -2,7 +2,7 @@
 null
 undefined
 boolean
-number
+number //Can not be more than 9007199254740991, or less than -9007199254740991.
 string
 object
 symbol
