@@ -6,6 +6,7 @@ number //Can not be more than 9007199254740991, or less than -9007199254740991.
 string
 object
 symbol
+BigInt //Add letter n to numeric literal
 
 
 //Operator typeof
