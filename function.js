@@ -1,5 +1,5 @@
 
-/*let usersName = prompt('Hello! What is your name?');
+let usersName = prompt('Hello! What is your name?');
 if (usersName == '') {
 	('Hello! What is your name?');
 }
@@ -27,4 +27,4 @@ function frontend(){
 }
 function backend(){
 	let usersExp = prompt(usersName + ', do you have some expereince in this field?');
-}*/
+}
