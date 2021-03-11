@@ -28,3 +28,11 @@ function frontend(){
 function backend(){
 	let usersExp = prompt(usersName + ', do you have some expereince in this field?');
 }
+
+// Local and global variables
+
+function sum(){
+	let client = ('Jack'); // Local variable
+}
+
+let user = ('Vlad'); //Global variable
