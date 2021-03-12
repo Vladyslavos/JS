@@ -36,3 +36,11 @@ function sum(){
 }
 
 let user = ('Vlad'); //Global variable
+
+
+function showMessage(){
+	alert('Hello world!');
+}
+//setTimeout(showMessage, 4000);
+
+//setInterval(showMessage, 2000);
