@@ -1,10 +1,10 @@
-function onClickButton(){
-  alert('You pressed me!');
+//On load function
+function onLoad (){
+	alert("Hello user!");
 }
-//
+//Count function
 let counter = 0;
-function count(){
-  counter++;
-  console.log(counter);
+function count(el){
+	counter++;
+	el.innerHTML = "You pressed this button " + counter + " times";
 }
-
