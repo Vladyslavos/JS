@@ -8,3 +8,11 @@ function count(el){
 	counter++;
 	el.innerHTML = "You pressed this button " + counter + " times";
 }
+//Mouse enter function
+function onMouse(){
+	confirm("Accept all cookies to watch content!");
+}
+//Mouse out function
+function onMouseOut(){
+	alert("Come back!");
+}
