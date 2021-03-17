@@ -16,3 +16,10 @@ function onMouse(){
 function onMouseOut(){
 	alert("Come back!");
 }
+// Double click founction
+let counter = 0;
+function doubleClick(){
+	counter++;
+	el.innerHTML = "You pressed this button " + counter + " times";
+}
+
