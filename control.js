@@ -8,3 +8,6 @@ list.style.marginTop = "440px";
 //
 let footerText = document.getElementById("foot");
 footerText.style.fontSize = "400px";
+//
+let classElement = document.getElementsByClassName("span_class");
+classElement.style.backgroundColor = "yellow";
