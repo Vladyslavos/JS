@@ -11,3 +11,8 @@ footerText.style.fontSize = "400px";
 //
 let classElement = document.getElementsByClassName("span_class");
 classElement.style.backgroundColor = "yellow";
+//
+let spans = document.getElementsByTagName('span');
+for(let i = 0; i < spans.length; i++){
+  console.log(spans[i].innerHTML);
+}
