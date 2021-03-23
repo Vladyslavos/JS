@@ -22,4 +22,5 @@ function doubleClick(){
 	counter++;
 	el.innerHTML = "You pressed this button " + counter + " times";
 }
+//
 
