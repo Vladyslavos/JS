@@ -16,3 +16,8 @@ let spans = document.getElementsByTagName('span');
 for(let i = 0; i < spans.length; i++){
   console.log(spans[i].innerHTML);
 }
+//
+let spans = document.getElementsByClassName('simple-text');
+for(let i = 0; i < spans.length; i++){
+  console.log(spans[i].innerHTML);
+  //
