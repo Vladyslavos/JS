@@ -1,3 +1,4 @@
+//Control elements
 let changes = document.getElementById("text");
 changes.style.color = "red";
 //
