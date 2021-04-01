@@ -44,3 +44,10 @@ function showMessage(){
 //setTimeout(showMessage, 4000);
 
 //setInterval(showMessage, 2000);
+
+function sum(){
+	let a = 9;
+	let b = 5;
+	let c = a + b;
+	return c;
+}
