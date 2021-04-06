@@ -6,3 +6,4 @@ class Person {
     this happiness = happiness;
   }
 }
+let alex = new Person('');
