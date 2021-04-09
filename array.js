@@ -18,4 +18,10 @@ console.log(matrix);
 let arr_5 = [[],[1, true, 'false']];
 console.log([1],[2]);
 //
+let arr_6 = [4, 8, 9, 3, 6, 1];
+console.log(arr_6.length);
+console.log(arr_6.join('|'));
+
+console.log(arr_6.sort());
+console.log(arr_6.reverse());
 
