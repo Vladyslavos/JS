@@ -7,6 +7,9 @@ console.log(date.getSeconds());
 console.log(date.getMinutes());
 console.log(date.getSeconds());
 
+date.setHours(23);
+date.setMinutes(22);
+
 console.log('Time: ' + date.getHours() + ':' + date.getMinutes() )
 
 
