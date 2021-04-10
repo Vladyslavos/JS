@@ -24,3 +24,14 @@ class Person {
 }
 let alex = new Person('Alex', '35', true);
 console.log(alex.age);
+
+class Phone{
+	constructor(model, weight, camera){
+		this.model = model;
+		this.weight = weight;
+		this.camera = camera;
+	}
+}
+
+let iphone = new Phone("Iphone", "0,129 kg", "34mpx");
+console.log(iphone.camera);
