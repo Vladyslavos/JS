@@ -22,4 +22,5 @@ class Person {
     this happiness = happiness;
   }
 }
-let alex = new Person('');
+let alex = new Person('Alex', '35', true);
+console.log(alex.age);
