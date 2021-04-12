@@ -33,5 +33,10 @@ class Phone{
 	}
 }
 
+class Cars{
+	constructor(price, year, color)
+	
+}
+
 let iphone = new Phone("Iphone", "0,129 kg", "34mpx");
 console.log(iphone.camera);
