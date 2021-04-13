@@ -37,6 +37,13 @@ let iphone = new Phone("Iphone", "0,129 kg", "34mpx");
 console.log(iphone.camera);
 
 class Cars{
-	constructor(price, year, color)
+	constructor(price, year, color){
+		this.price = price;
+		this.year = year;
+		this.color = color;
+	}
+}
+let a = new Cars("120.000$", 2021, red);
+	
 	
 }
